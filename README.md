@@ -4,7 +4,8 @@
         longdesc="NMS Logo"
         crossorigin="anonymous"
         referrerpolicy="no-referrer" />
-    <h1>Every Man's Skies</h1>
 </p>
+
+<h1 align="center">Every Man's Skies</h1>
 
 QoL changes and improvements to No Man's Sky.
